@@ -1,0 +1,28 @@
+body {
+    background-color: silver; 
+}
+
+p {
+    background-color:orange; 
+}
+
+h1 {
+    background-color:yellow;color:red; 
+}
+
+.p3 { 
+    background-color:red;
+}
+
+#p3 {
+    color:white;
+}
+
+.p4 { 
+
+    background-color:greenyellow;
+}
+
+#p4 {
+    color:white;
+}
